@@ -1,4 +1,5 @@
-name: Testing Self-Hosted Runner
+name: Testing Self-Hosted Runners
+
 on:
   workflow_dispatch:
 
